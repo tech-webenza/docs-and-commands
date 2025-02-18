@@ -1,4 +1,4 @@
-
+# Ubuntu Users
 ## Go to location
 ```
 cd /usr/local/bin/
@@ -23,3 +23,12 @@ sudo apt-get -y remove
 
 ctrl+o and ctrl+x
 
+## Change the permission of that file to execute
+```
+sudo chmod +x daily_update.sh
+```
+
+## Run the following command to update everyday
+```
+./daily_update.sh
+```
