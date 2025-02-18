@@ -21,5 +21,5 @@ sudo apt-get -y remove
 ```
 ## Save the file
 
-###ctrl+o and ctrl+x
+ctrl+o and ctrl+x
 
