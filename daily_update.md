@@ -20,6 +20,6 @@ sudo apt-get -y clean
 sudo apt-get -y remove
 ```
 ## Save the file
-```
-ctrl+o and ctrl+x
-```
+
+###ctrl+o and ctrl+x
+
