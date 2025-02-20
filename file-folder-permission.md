@@ -1,4 +1,4 @@
-##Run these commands to get proper permission to perform git 
+## Run these commands to get proper permission to perform git 
 
 ```
 sudo chown $USER:www-data -R *
