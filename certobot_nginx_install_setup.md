@@ -1,7 +1,7 @@
 # Install the necessary packages
 ## Install certbot in server 
 ```
-"sudo snap install --classic certbot"
+sudo snap install --classic certbot
 ```
 OR
 ```
