@@ -6,10 +6,10 @@
 #!/bin/bash
 
 # Define MySQL credentials
-MYSQL_ROOT_PASSWORD="**rootpassword**"
-DB_NAME="**wordpress**"
-DB_USER="**wp_user**"
-DB_PASSWORD="**wp_password**"
+MYSQL_ROOT_PASSWORD="rootpassword"
+DB_NAME="wordpress"
+DB_USER="wp_user"
+DB_PASSWORD="wp_password"
 
 # Update system packages
 echo "Updating system..."
