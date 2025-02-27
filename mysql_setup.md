@@ -1,3 +1,6 @@
+# This is to automate the mysql database creation and setting up
+## Take a clone of this file in /usr/local/bin
+## rename mysql_setup.md to mysql_setup.sh
 ```
 #!/bin/bash
 
