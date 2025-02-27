@@ -1,15 +1,15 @@
 # This is to automate the mysql database creation and setting up
 ## Take a clone of this file in /usr/local/bin
 ## rename mysql_setup.md to mysql_setup.sh
-
+## dont forget to change credentials below
 ```
 #!/bin/bash
 
 # Define MySQL credentials
-MYSQL_ROOT_PASSWORD="rootpassword"
-DB_NAME="wordpress"
-DB_USER="wp_user"
-DB_PASSWORD="wp_password"
+MYSQL_ROOT_PASSWORD="**rootpassword**"
+DB_NAME="**wordpress**"
+DB_USER="**wp_user**"
+DB_PASSWORD="**wp_password**"
 
 # Update system packages
 echo "Updating system..."
