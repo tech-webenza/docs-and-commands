@@ -33,4 +33,4 @@ https://pagespeed.web.dev/
 https://console.aws.amazon.com/
 
 ### Check Domain Expiry
-[Brigade Group]([https://www.brigadegroup.com/](https://www.whatsmydns.net/domain-expiration`))
+https://www.whatsmydns.net/domain-expiration
