@@ -10,7 +10,7 @@ sudo apt install mailutils -y
 ## Test Sending Email
 
 ``` bash
-echo "Test email body" | mail -s "Test Email" tech-leads@webenza.com
+echo "Test email body" | mail -s "Test Email" tech-notifications@webenza.com
 which mail
 sudo tail -n 50 /var/log/mail.log
 ```
@@ -50,7 +50,7 @@ sudo systemctl restart postfix
 Test Email:
 
 ``` bash
-echo "Test email body" | mail -s "Test Email" tech-leads@webenza.com
+echo "Test email body" | mail -s "Test Email" tech-notifications@webenza.com
 ```
 
 ## Create Disk Usage Alert Script
