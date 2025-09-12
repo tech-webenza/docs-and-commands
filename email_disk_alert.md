@@ -50,7 +50,9 @@ sudo systemctl restart postfix
 Test Email:
 
 ``` bash
-echo "Test email body" | mail -s "Test Email" tech-notifications@webenza.com
+echo "Test email body New" | mail -s "Test New Email" \
+-a "From: My Friendly Name <frommailid@gmail.com>" \
+yourmailid@gmail.com
 ```
 
 ## Create Disk Usage Alert Script
